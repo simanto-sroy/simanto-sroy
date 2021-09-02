@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Simanto Roy 👋
 
-<!--
-**simanto-sroy/simanto-sroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About MySelf
+
+- 🔭 I’m currently working on react-redux project
+- 🌱 I’m currently learning react-native
+- 👯 I’m looking to collaborate on youtube
+- 🤔 I’m looking for help with react-native-documentation
+- 💬 Ask me about software development technology
+- 📫 How to reach me: [Simanto Roy](https://www.facebook.com/simanto.roy.948/)
+
+### My Github Star
+https://github-readme-stats.vercel.app/api?username=simanto-sroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
