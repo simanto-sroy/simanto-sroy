@@ -1,5 +1,3 @@
-## Hi, I'm Simanto Roy 👋
-
 
 ## 🚀 Languages and Tools:
 <p align="left">
@@ -28,7 +26,7 @@
     </a>
 </p>
 
-<a href="https://github.com/simanto-sroy/github-readme-stats"><img alt="Simanto Roy Github Stats" src="https://github-readme-stats.vercel.app/api?username=simanto-sroyo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/simanto-sroy/github-readme-stats"><img alt="Simanto Roy Github Stats" src="https://github-readme-stats.vercel.app/api?username=simanto-sroy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/simanto-sroy//github-readme-stats"><img alt="Simanto Roy Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simanto-sroy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <a href="https://github.com/simanto-sroygithub-readme-activity-graph"><img alt="Simanto Roy Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=simanto-sroy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
